@@ -1,0 +1,74 @@
+body{
+    background-color: #131313;
+    margin-left: 0px;;
+}
+header{
+    
+    width: 21%;
+    margin-left: 0px;
+    height:  82px;
+    text-align: left;
+    
+    
+}
+header :hover{
+    opacity: 0.75;
+}
+nav{ position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 0px;
+    right: 0px;
+    height: 90px;
+    width: 80%;
+    text-align: right;
+    color: white;
+    font-size: 35px;
+    
+    
+    
+}
+.navitem:not(contact) {
+    border-right: 1px solid white;   
+}
+
+.navitem:hover{
+    background-color:dimgrey;
+}
+.a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 20px;
+        
+}
+
+
+body {
+    background-image: url("images/Cartoonify.png");
+    background-repeat: no-repeat;
+    background-color:  #131313;
+    du
+   }
+
+   article{ 
+    margin-top: 40px;
+    margin-left: 600px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style:normal ;
+    font-size: 50px;
+    color: white;
+   }
+   h1{ 
+    
+    font-style:oblique;
+    color: #137DC5;
+     font-size: 79px;
+     margin-top: 5px;
+     margin-bottom: 10px; 
+   }
+
+
+h2{
+    font-size: 20px;
+}
+
